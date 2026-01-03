@@ -1,0 +1,29 @@
+#: locale=en
+
+## Media
+
+### Título
+panorama_9D9CF131_846D_F3AF_41C3_CB0918A4DCBC.label = Bedroom
+panorama_9D955277_846D_3193_41D1_7F447A71AB2E.label = Kitchen
+panorama_9DFAF30D_846D_3777_41A7_41AD5BB8C3F8.label = Living room
+panorama_9D9F7F44_846D_2FF5_41B6_651AB29E5ADB.label = Main bathroom
+panorama_9CEFBB07_846D_1773_41DF_EBC2439A1EB3.label = Main entrance
+panorama_890690B4_83F5_1296_41D6_A96A2FBB91F4.label = Powder room
+
+## Menú VR
+
+### Texto
+MenuItem_9178F5D5_843D_1297_41C9_D38423D2BEC3.label = Bedroom
+MenuItem_917825D5_843D_1297_41D6_EF2E53B97F37.label = Kitchen
+MenuItem_917805D5_843D_1297_41D5_E31040788551.label = Living room
+MenuItem_917835D5_843D_1297_41D3_FB42BC484F6E.label = Main bathroom
+MenuItem_9178C5D5_843D_1297_41B9_16C5613B216F.label = Main entrance
+Menu_917D45B2_843D_12AD_4193_8C7DC480543C.label = Media
+MenuItem_9178E5D5_843D_1297_41D8_5773B13D19C3.label = Powder room
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = DUBAI-SOUTH

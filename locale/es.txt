@@ -3,11 +3,11 @@
 ## Media
 
 ### Título
-panorama_88B66D00_83F5_136D_41DF_33232B78BDA8.label = Bedroom
-panorama_89085BEC_83F5_76B5_4186_6C6D49CBF83A.label = Kitchen
-panorama_8906E54B_83F5_13F3_41B0_C40B1C8C243B.label = Living room
-panorama_89069E79_83F5_119E_41BF_8A96A31660FE.label = Main bathroom
-panorama_8906C786_83F5_3F72_41DE_E95DC4C4BB62.label = Main entrance
+panorama_9D9CF131_846D_F3AF_41C3_CB0918A4DCBC.label = Bedroom
+panorama_9D955277_846D_3193_41D1_7F447A71AB2E.label = Kitchen
+panorama_9DFAF30D_846D_3777_41A7_41AD5BB8C3F8.label = Living room
+panorama_9D9F7F44_846D_2FF5_41B6_651AB29E5ADB.label = Main bathroom
+panorama_9CEFBB07_846D_1773_41DF_EBC2439A1EB3.label = Main entrance
 panorama_890690B4_83F5_1296_41D6_A96A2FBB91F4.label = Powder room
 
 ## Menú VR
@@ -26,4 +26,4 @@ MenuItem_9178E5D5_843D_1297_41D8_5773B13D19C3.label = Powder room
 ### Descripción
 
 ### Título
-tour.name = Sin Título 4
+tour.name = DUBAI-SOUTH
