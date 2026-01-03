@@ -10,6 +10,17 @@ panorama_89069E79_83F5_119E_41BF_8A96A31660FE.label = Main bathroom
 panorama_8906C786_83F5_3F72_41DE_E95DC4C4BB62.label = Main entrance
 panorama_890690B4_83F5_1296_41D6_A96A2FBB91F4.label = Powder room
 
+## Menú VR
+
+### Texto
+MenuItem_9178F5D5_843D_1297_41C9_D38423D2BEC3.label = Bedroom
+MenuItem_917825D5_843D_1297_41D6_EF2E53B97F37.label = Kitchen
+MenuItem_917805D5_843D_1297_41D5_E31040788551.label = Living room
+MenuItem_917835D5_843D_1297_41D3_FB42BC484F6E.label = Main bathroom
+MenuItem_9178C5D5_843D_1297_41B9_16C5613B216F.label = Main entrance
+Menu_917D45B2_843D_12AD_4193_8C7DC480543C.label = Media
+MenuItem_9178E5D5_843D_1297_41D8_5773B13D19C3.label = Powder room
+
 ## Tour
 
 ### Descripción
