@@ -1,0 +1,18 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_88B66D00_83F5_136D_41DF_33232B78BDA8.label = Bedroom
+panorama_89085BEC_83F5_76B5_4186_6C6D49CBF83A.label = Kitchen
+panorama_8906E54B_83F5_13F3_41B0_C40B1C8C243B.label = Living room
+panorama_89069E79_83F5_119E_41BF_8A96A31660FE.label = Main bathroom
+panorama_8906C786_83F5_3F72_41DE_E95DC4C4BB62.label = Main entrance
+panorama_890690B4_83F5_1296_41D6_A96A2FBB91F4.label = Powder room
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 4
